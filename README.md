@@ -14,7 +14,8 @@
 
 8.After streaming u will get a target link to predict the output.
 
-9.The files will be uploading to google cloud pla
+9.The files will be uploading to google cloud platform
+
 10.Add this repo to it.
 
 11.The app is deployed to the AWS cloud and visualisations are made with the data that we streamed to the cloud via AWS Amplify
